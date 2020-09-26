@@ -6,6 +6,9 @@ o 구현한 기능
 - 게시글 CRUD
 - 댓글 CRUD
 - Auth
+- 추천
+- 정렬
+- 
 
 ![pybo_main](readme_image/pybo_main.PNG)
 
