@@ -1,5 +1,5 @@
 ### KEY ###
-Board/secret.json
+secret.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/django,pydev
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,pydev
@@ -127,7 +127,8 @@ ENV/
 env.bak/
 venv.bak/
 
-PyBoard_venv/
+.PyBoard_venv
+PyBoard_venv
 
 # Spyder project settings
 .spyderproject
