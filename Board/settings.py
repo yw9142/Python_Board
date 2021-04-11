@@ -43,7 +43,7 @@ SECRET_KEY = get_secret('SECRET_KEY')  # my-secret-key
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['15.165.121.43']
+ALLOWED_HOSTS = []
 
 # Application definition
 
